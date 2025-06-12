@@ -15,8 +15,8 @@ const HeroSection = () => {
             just honest coverage that fits your life and budget.
           </p>
           <div className="mt-4 d-flex justify-content-center justify-content-md-start gap-3">
-            <button className="btn btn-primary btn-lg">Compare Plans Now</button>
-            <button className="btn btn-outline-secondary btn-lg">Learn More</button>
+             <a href="#compare" className="btn btn-primary btn-lg">Compare Plans Now</a>
+             <a href="#info" className="btn btn-outline-secondary btn-lg">Learn More</a>
           </div>
         </div>
 
