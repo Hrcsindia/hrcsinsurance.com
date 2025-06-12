@@ -65,8 +65,8 @@ const CompareForm = () => {
                       <h5 className="text-primary fw-bold">₹2,499/month</h5>
                       <p>Coverage: ₹5 Lakhs</p>
                       <span className="badge bg-light text-dark mb-3">Zero waiting period</span>
-                      <button className="btn btn-outline-dark w-100 mb-2">Deep Dive</button>
-                      <button className="btn btn-primary w-100">Get Quote</button>
+                         <a href='#support' className="btn btn-outline-dark w-100 mb-2">Deep Dive</a>
+                      <a href='#support'  className="btn btn-primary w-100">Get Quote</a>
                     </div>
                   </div>
                 </div>
@@ -83,8 +83,8 @@ const CompareForm = () => {
                       <h5 className="text-primary fw-bold">₹3,299/month</h5>
                       <p>Coverage: ₹10 Lakhs</p>
                       <span className="badge bg-light text-dark mb-3">Global coverage</span>
-                      <button className="btn btn-outline-dark w-100 mb-2">Deep Dive</button>
-                      <button className="btn btn-primary w-100">Get Quote</button>
+                      <a href='#support' className="btn btn-outline-dark w-100 mb-2">Deep Dive</a>
+                      <a href='#support'  className="btn btn-primary w-100">Get Quote</a>
                     </div>
                   </div>
                 </div>
@@ -98,8 +98,8 @@ const CompareForm = () => {
                       <h5 className="text-primary fw-bold">₹4,199/month</h5>
                       <p>Coverage: ₹15 Lakhs</p>
                       <span className="badge bg-light text-dark mb-3">Covers entire family</span>
-                      <button className="btn btn-outline-dark w-100 mb-2">Deep Dive</button>
-                      <button className="btn btn-primary w-100">Get Quote</button>
+                        <a href='#support' className="btn btn-outline-dark w-100 mb-2">Deep Dive</a>
+                      <a href='#support'  className="btn btn-primary w-100">Get Quote</a>
                     </div>
                   </div>
                 </div>
