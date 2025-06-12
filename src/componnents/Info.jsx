@@ -23,11 +23,6 @@ const Info = () => {
       name: 'Amit R.',
       feedback: 'Family protected when it mattered most',
       type: 'Life'
-    },
-    {
-      name: 'shivani.',
-      feedback: 'Family protected when it mattered most',
-      type: 'Life'
     }
   ];
 

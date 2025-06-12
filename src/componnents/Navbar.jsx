@@ -21,10 +21,10 @@ const Navbar = () => {
             <li className="nav-item"><a className="nav-link" href="#home">Home</a></li>
             <li className="nav-item"><a className="nav-link" href="#compare">Compare Plans</a></li>
             <li className="nav-item"><a className="nav-link" href="#calculator">Insurance Calculator</a></li>
-            <li className="nav-item"><a className="nav-link" href="#info">Learn</a></li>
+            <li className="nav-item"><a className="nav-link" href="#info">About Us</a></li>
             <li className="nav-item"><a className="nav-link" href="#support">Support</a></li>
           </ul>
-          <a href="#compare" className="btn btn-primary ms-auto">Get Quote</a>
+          <a href="#support" className="btn btn-primary ms-auto">Get Quote</a>
         </div>
       </div>
     </nav>
